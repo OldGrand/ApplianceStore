@@ -1,0 +1,200 @@
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.exe
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.deps.json
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.runtimeconfig.json
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.runtimeconfig.dev.json
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.pdb
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.Views.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.Views.pdb
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.BLL.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.BLL.pdb
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.pdb
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.RazorAssemblyInfo.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.RazorAssemblyInfo.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.TagHelpers.input.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.TagHelpers.output.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.RazorCoreGenerate.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Product\Items.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Sale\Create.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Sale\Items.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Supply\Create.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Supply\Items.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.RazorTargetAssemblyInfo.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.RazorTargetAssemblyInfo.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.Views.pdb
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.csproj.CopyComplete
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\staticwebassets\ApplianceStore.PL.StaticWebAssets.Manifest.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\staticwebassets\ApplianceStore.PL.StaticWebAssets.xml
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.pdb
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\FirstQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\ThirdQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\SixthQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\SeventhQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TitleValuePartial.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\SecondQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\FourthQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\FifthQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\EighthQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\NinthQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\TenthQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.Infrastructure.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.Infrastructure.pdb
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.exe
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.deps.json
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.runtimeconfig.json
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.runtimeconfig.dev.json
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.pdb
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.Views.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.PL.Views.pdb
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.BLL.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.Infrastructure.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.BLL.pdb
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.pdb
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\bin\Debug\netcoreapp3.1\ApplianceStore.Infrastructure.pdb
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.RazorAssemblyInfo.cache
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.RazorAssemblyInfo.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\staticwebassets\ApplianceStore.PL.StaticWebAssets.Manifest.cache
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\staticwebassets\ApplianceStore.PL.StaticWebAssets.xml
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApplianceStore.PL.styles.css
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.TagHelpers.input.cache
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.TagHelpers.output.cache
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.RazorCoreGenerate.cache
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Product\Items.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\EighthQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\FifthQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\FirstQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\FourthQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\NinthQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\SecondQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\SeventhQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\SixthQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\TenthQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Query\ThirdQuery.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Sale\Create.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Sale\Items.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TitleValuePartial.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Supply\Create.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\Supply\Items.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.RazorTargetAssemblyInfo.cache
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.RazorTargetAssemblyInfo.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.Views.pdb
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.csproj.CopyComplete
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.pdb
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.PL\obj\Debug\netcoreapp3.1\ApplianceStore.PL.genruntimeconfig.cache

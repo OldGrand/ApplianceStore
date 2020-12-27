@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link asp-href-include="~/css/*.css" rel="stylesheet"/>
+</head>
+<body>
+    <div class="wrap">
+        <header class="header">
+            <div class="header__logo">
+                <a href="">
+                    <img class="header__img-logo" src="~/images/logo.png" alt="Logo">
+                </a>
+            </div>
+
+            <nav class="nav">
+                <ul class="nav__list">
+                    <li class="nav__item">
+                        <a class="nav__link link" asp-controller="Product" asp-action="Items">Product</a>
+                    </li>
+                    <li class="nav__item">
+                        <a class="nav__link link" asp-controller="Sale" asp-action="Items">Sale</a>
+                    </li>
+                    <li class="nav__item">
+                        <a class="nav__link link" asp-controller="Supply" asp-action="Items">Supply</a>
+                    </li>
+                    <li class="nav__item">
+                        <a class="nav__link link" href="#">Queries</a>
+                        <span class="menu__arrow arrow"></span>
+                        <ul class="sub-nav__list">
+                            <li class="sub-nav__item">
+                                <a class="sub-nav__link link" asp-controller="Query" asp-action="FirstQuery">Сумма каждой продажи со скидкой</a>
+                            </li>
+                            <li class="sub-nav__item">
+                                <a class="sub-nav__link link" asp-controller="Query" asp-action="SecondQuery">Название товара с ценой в диапазоне</a>
+                            </li>
+                            <li class="sub-nav__item">
+                                <a class="sub-nav__link link" asp-controller="Query" asp-action="ThirdQuery">Последний поставленный товар</a>
+                            </li>
+                            <li class="sub-nav__item">
+                                <a class="sub-nav__link link" asp-controller="Query" asp-action="FourthQuery">Товар, кол-во продаж > знач. пользователя</a>
+                            </li>
+                            <li class="sub-nav__item">
+                                <a class="sub-nav__link link" asp-controller="Query" asp-action="FifthQuery">Поставщики, avg кол-во товара > пользователя</a>
+                            </li>
+                            <li class="sub-nav__item">
+                                <a class="sub-nav__link link" asp-controller="Query" asp-action="SixthQuery">Общая сумма продаж за месяц</a>
+                            </li>
+                            <li class="sub-nav__item">
+                                <a class="sub-nav__link link" asp-controller="Query" asp-action="SeventhQuery">Avg цену товаров для каждого поставщика</a>
+                            </li>
+                            <li class="sub-nav__item">
+                                <a class="sub-nav__link link" asp-controller="Query" asp-action="EighthQuery">Общее кол-во поставленного товара</a>
+                            </li>
+                            <li class="sub-nav__item">
+                                <a class="sub-nav__link link" asp-controller="Query" asp-action="NinthQuery">Товары без поставок</a>
+                            </li>
+                            <li class="sub-nav__item">
+                                <a class="sub-nav__link link" asp-controller="Query" asp-action="TenthQuery">Товары на каждого производителя</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+
+        <main class="main">
+            <div class="container">
+                @RenderBody()
+            </div>
+        </main>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="footer__menu">
+                    <nav class="footer__nav">
+                        <a href="./Pages/about.html" class="footer__nav__item">
+                            About
+                        </a>
+                        <a href="./Pages/contacts.html" class="footer__nav__item">
+                            Contacts
+                        </a>
+                    </nav>
+                </div>
+                <p class="footer__content">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quidem at dolores mollitia! Numquam dicta voluptatum error rerum similique dignissimos cupiditate, commodi ea illum porro ut molestiae perferendis.
+                </p>
+                <div class="social__networks">
+                    <a href="https://www.facebook.com/" class="network__item" target="_blank">
+                        <img src="~/images/facebook.svg" alt="facebook">
+                    </a>
+                    <a href="https://dribbble.com/" class="network__item" target="_blank">
+                        <img src="~/images/dribbble.svg" alt="dribbble">
+                    </a>
+                    <a href="https://www.instagram.com/?hl=ru" class="network__item" target="_blank">
+                        <img src="~/images/instagram.svg" alt="instagram">
+                    </a>
+                    <a href="https://twitter.com/?lang=ru" class="network__item" target="_blank">
+                        <img src="~/images/twitter.svg" alt="twitter">
+                    </a>
+                    <a href="https://www.youtube.com/" class="network__item" target="_blank">
+                        <img src="~/images/youtube.svg" alt="youtube">
+                    </a>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="~/js/NavScript.js"></script>
+    <script src="~/js/DeleteValidator.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,29 @@
+﻿@model IEnumerable<ProductViewModel>
+
+@{
+    ViewData["Title"] = "Query";
+}
+
+<table class="table_price">
+    <caption>Результат</caption>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Title
+            </td>
+            <td>
+                @item.Description
+            </td>
+        </tr>
+    }
+</table>

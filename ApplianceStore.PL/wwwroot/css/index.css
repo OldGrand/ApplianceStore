@@ -1,0 +1,149 @@
+﻿.header {
+    font-family: 'Teko';
+    font-weight: 700;
+    font-size: calc(15px + 10 * (100vw / 1300));
+    margin-bottom: 75px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header__img-logo {
+    width: 14.7vw;
+    min-width: 125px;
+    margin: 5vh 0px;
+    transition: all .9s ease;
+}
+
+.nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: #fff;
+    z-index: 5;
+}
+
+.nav__list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav__item {
+    position: relative;
+}
+
+.link {
+    display: block;
+    color: #000;
+    padding: 10px 20px;
+    transition: .2s;
+    text-decoration: none;
+    flex-grow: 1;
+}
+
+    .link:hover {
+        color: #fff;
+        background-color: #0b0259;
+    }
+
+.sub-nav__list {
+    display: none;
+    background-color: #d1d1d1 !important;
+    position: absolute;
+    transition: .2s;
+    width: max-content;
+}
+
+.sub-nav__item {
+    display: flex;
+    position: relative;
+}
+
+.sub-sub-nav__list {
+    display: none;
+    background-color: #a1a1a1 !important;
+    position: absolute;
+    transition: .2s;
+    width: max-content;
+    left: 100%;
+}
+
+.arrow {
+    display: none;
+    position: absolute;
+    top: 15px;
+    right: 0%;
+    transition: .2s;
+}
+
+.menu__arrow {
+    border-top: 10px solid #000;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+}
+
+.sub-menu__arrow {
+    border-top: 10px solid transparent;
+    border-left: 10px solid #000;
+    border-bottom: 10px solid transparent;
+}
+
+body.click .nav__item:hover .sub-nav__list {
+    display: block;
+}
+
+body.click .sub-nav__item:hover .sub-sub-nav__list {
+    display: block;
+}
+
+body.touch .sub-nav__list.open {
+    display: block;
+}
+
+body.touch .sub-sub-nav__list.open {
+    display: block;
+}
+
+body.touch .arrow {
+    display: block;
+}
+
+.arrow.active {
+    transform: rotate(180deg);
+}
+
+.main {
+    flex-grow: 1;
+    margin-bottom: 45px;
+}
+
+@media(max-width: 767px) {
+    .nav__list {
+        display: block;
+    }
+
+    .sub-nav__list {
+        position: relative;
+        left: 0;
+        top: 0;
+        width: 100%;
+    }
+
+    .sub-nav__item {
+        display: block;
+    }
+
+    .sub-sub-nav__list {
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+
+    .sub-menu__arrow {
+        border-top: 10px solid #000;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+    }
+}

@@ -1,0 +1,24 @@
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.DAL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.deps.json
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.DAL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.runtimeconfig.json
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.DAL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.runtimeconfig.dev.json
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.DAL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.DAL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.pdb
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.DAL\obj\Debug\netcoreapp3.1\ApplianceStore.DAL.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.DAL\obj\Debug\netcoreapp3.1\ApplianceStore.DAL.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.DAL\obj\Debug\netcoreapp3.1\ApplianceStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.DAL\obj\Debug\netcoreapp3.1\ApplianceStore.DAL.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.DAL\obj\Debug\netcoreapp3.1\ApplianceStore.DAL.pdb
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.DAL\obj\Debug\netcoreapp3.1\ApplianceStore.DAL.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\ApplianceStore.DAL\obj\Debug\netcoreapp3.1\ApplianceStore.DAL.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.DAL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.deps.json
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.DAL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.runtimeconfig.json
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.DAL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.runtimeconfig.dev.json
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.DAL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.DAL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.pdb
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.DAL\obj\Debug\netcoreapp3.1\ApplianceStore.DAL.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.DAL\obj\Debug\netcoreapp3.1\ApplianceStore.DAL.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.DAL\obj\Debug\netcoreapp3.1\ApplianceStore.DAL.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.DAL\obj\Debug\netcoreapp3.1\ApplianceStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.DAL\obj\Debug\netcoreapp3.1\ApplianceStore.DAL.dll
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.DAL\obj\Debug\netcoreapp3.1\ApplianceStore.DAL.pdb
+C:\Users\Sergey\Desktop\ApplianceStore\ApplianceStore.DAL\obj\Debug\netcoreapp3.1\ApplianceStore.DAL.genruntimeconfig.cache

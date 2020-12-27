@@ -1,0 +1,8 @@
+﻿@model IEnumerable<TitleValueViewModel>
+
+@{
+    ViewData["Title"] = "Запрос шесть";
+    ViewData["Header"] = "Результат";
+}
+
+@await Html.PartialAsync("_TitleValuePartial", Model)

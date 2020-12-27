@@ -1,0 +1,38 @@
+﻿@model GenericStringViewModel<ProductTitleCountInStockViewModel>
+
+<form asp-action="TenthQuery" asp-controller="Query" method="post" class="main__form">
+    <div class="form-group">
+        <label asp-for="String" class="control-label">Manufacturer</label>
+        <input asp-for="String" class="form-control" />
+        <span asp-validation-for="String"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Отправить" class="table__button" />
+    </div>
+</form>
+
+<table class="table_price">
+    <caption>Результат</caption>
+    <tr>
+        <th>
+            Title
+        </th>
+        <th>
+            Count in Stock
+        </th>
+    </tr>
+    @if (Model.Source != null)
+    {
+        foreach (var item in Model.Source)
+        {
+            <tr>
+                <td>
+                    @item.Title
+                </td>
+                <td>
+                    @item.CountInStock
+                </td>
+            </tr>
+        }
+    }
+</table>

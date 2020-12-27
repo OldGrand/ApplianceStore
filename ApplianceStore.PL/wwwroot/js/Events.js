@@ -1,0 +1,1 @@
+﻿document.querySelector('.table__button').onclick = () => confirm('Вы действительно хотите удалить?');

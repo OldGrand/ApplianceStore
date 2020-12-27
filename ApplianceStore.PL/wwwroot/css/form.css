@@ -1,0 +1,27 @@
+﻿.main__form {
+    display: flex;
+    flex-direction: column;
+    width: min-content;
+    height: min-content;
+    margin: auto auto 50px auto;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+    .form-group + .form-group {
+        margin-top: 25px;
+    }
+
+.control-label,
+.form-control {
+    font-size: 1.2rem;
+}
+
+.form-control {
+    width: 200px;
+    border-radius: 3px;
+    border-color: #0b0259;
+}

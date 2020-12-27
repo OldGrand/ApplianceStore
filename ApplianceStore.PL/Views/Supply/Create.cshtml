@@ -1,0 +1,31 @@
+﻿@model CreateSupplyViewModel
+
+<form asp-action="Create" asp-controller="Supply" method="post" class="main__form">
+    <div class="form-group">
+        <label asp-for="Supply.Supplier" class="control-label">Supplier</label>
+        <input type="text" asp-for="Supply.Supplier" class="form-control" />
+        <span asp-validation-for="Supply.Supplier"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Supply.Count" class="control-label">Count</label>
+        <input type="number" asp-for="Supply.Count" class="form-control" />
+        <span asp-validation-for="Supply.Count"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Supply.Date" class="control-label">Date</label>
+        <input type="date" asp-for="Supply.Date" class="form-control" />
+        <span asp-validation-for="Supply.Date"></span>
+    </div>
+    <div class="form-group">
+        <select asp-for="@Model.Supply.ProductId" asp-items="@Model.ProductTitles" class="control-label">
+        </select>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Отправить" class="table__button" />
+    </div>
+</form>
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

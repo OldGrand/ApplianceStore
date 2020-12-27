@@ -1,0 +1,43 @@
+﻿@model ProductRangeViewModel
+
+<form asp-action="SecondQuery" asp-controller="Query" method="post" class="main__form">
+    <div class="form-group">
+        <label asp-for="Range.Start" class="control-label">Begin</label>
+        <input type="number" asp-for="Range.Start" class="form-control" />
+        <span asp-validation-for="Range.Start"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Range.End" class="control-label">End</label>
+        <input type="number" asp-for="Range.End" class="form-control" />
+        <span asp-validation-for="Range.End"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Отправить" class="table__button" />
+    </div>
+</form>
+
+<table class="table_price">
+    <caption>Результат</caption>
+    <tr>
+        <th>
+            Title
+        </th>
+        <th>
+            Price
+        </th>
+    </tr>
+    @if (Model.ProductVMs != null)
+    {
+        foreach (var item in Model.ProductVMs)
+        {
+            <tr>
+                <td>
+                    @item.Title
+                </td>
+                <td>
+                    @item.Price
+                </td>
+            </tr>
+        }
+    }
+</table>

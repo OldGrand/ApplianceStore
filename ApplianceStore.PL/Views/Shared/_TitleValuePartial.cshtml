@@ -1,0 +1,25 @@
+﻿@model IEnumerable<TitleValueViewModel>
+
+<table class="table_price">
+    <caption>@ViewData["Header"]</caption>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Value)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Title
+            </td>
+            <td>
+                @item.Value
+            </td>
+        </tr>
+    }
+</table>

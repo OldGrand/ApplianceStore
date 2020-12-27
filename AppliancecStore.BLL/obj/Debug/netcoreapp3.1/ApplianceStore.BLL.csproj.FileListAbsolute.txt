@@ -1,0 +1,24 @@
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\AppliancecStore.BLL\bin\Debug\netcoreapp3.1\ApplianceStore.BLL.deps.json
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\AppliancecStore.BLL\bin\Debug\netcoreapp3.1\ApplianceStore.BLL.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\AppliancecStore.BLL\bin\Debug\netcoreapp3.1\ApplianceStore.BLL.pdb
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\AppliancecStore.BLL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\AppliancecStore.BLL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.pdb
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\AppliancecStore.BLL\obj\Debug\netcoreapp3.1\ApplianceStore.BLL.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\AppliancecStore.BLL\obj\Debug\netcoreapp3.1\ApplianceStore.BLL.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\AppliancecStore.BLL\obj\Debug\netcoreapp3.1\ApplianceStore.BLL.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\AppliancecStore.BLL\obj\Debug\netcoreapp3.1\ApplianceStore.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\AppliancecStore.BLL\obj\Debug\netcoreapp3.1\ApplianceStore.BLL.csproj.CopyComplete
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\AppliancecStore.BLL\obj\Debug\netcoreapp3.1\ApplianceStore.BLL.dll
+C:\Users\Sergey\Desktop\Asp net\ApplianceStore.PL\AppliancecStore.BLL\obj\Debug\netcoreapp3.1\ApplianceStore.BLL.pdb
+C:\Users\Sergey\Desktop\ApplianceStore\AppliancecStore.BLL\bin\Debug\netcoreapp3.1\ApplianceStore.BLL.deps.json
+C:\Users\Sergey\Desktop\ApplianceStore\AppliancecStore.BLL\bin\Debug\netcoreapp3.1\ApplianceStore.BLL.dll
+C:\Users\Sergey\Desktop\ApplianceStore\AppliancecStore.BLL\bin\Debug\netcoreapp3.1\ApplianceStore.BLL.pdb
+C:\Users\Sergey\Desktop\ApplianceStore\AppliancecStore.BLL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.dll
+C:\Users\Sergey\Desktop\ApplianceStore\AppliancecStore.BLL\bin\Debug\netcoreapp3.1\ApplianceStore.DAL.pdb
+C:\Users\Sergey\Desktop\ApplianceStore\AppliancecStore.BLL\obj\Debug\netcoreapp3.1\ApplianceStore.BLL.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\ApplianceStore\AppliancecStore.BLL\obj\Debug\netcoreapp3.1\ApplianceStore.BLL.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\ApplianceStore\AppliancecStore.BLL\obj\Debug\netcoreapp3.1\ApplianceStore.BLL.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\ApplianceStore\AppliancecStore.BLL\obj\Debug\netcoreapp3.1\ApplianceStore.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\ApplianceStore\AppliancecStore.BLL\obj\Debug\netcoreapp3.1\ApplianceStore.BLL.csproj.CopyComplete
+C:\Users\Sergey\Desktop\ApplianceStore\AppliancecStore.BLL\obj\Debug\netcoreapp3.1\ApplianceStore.BLL.dll
+C:\Users\Sergey\Desktop\ApplianceStore\AppliancecStore.BLL\obj\Debug\netcoreapp3.1\ApplianceStore.BLL.pdb

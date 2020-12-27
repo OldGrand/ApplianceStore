@@ -1,0 +1,31 @@
+﻿@model CreateSaleViewModel
+
+<form asp-action="Create" asp-controller="Sale" method="post" class="main__form">
+    <div class="form-group">
+        <label asp-for="Sale.Date" class="control-label">Date</label>
+        <input type="date" asp-for="Sale.Date" class="form-control" />
+        <span asp-validation-for="Sale.Date"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Sale.Count" class="control-label">Count</label>
+        <input type="number" asp-for="Sale.Count" class="form-control" />
+        <span asp-validation-for="Sale.Count"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Sale.Discount" class="control-label">Discount</label>
+        <input type="number" asp-for="Sale.Discount" class="form-control" />
+        <span asp-validation-for="Sale.Discount"></span>
+    </div>
+    <div class="form-group">
+        <select asp-for="@Model.Sale.ProductId" asp-items="@Model.ProductTitles" class="control-label">
+        </select>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Отправить" class="table__button" />
+    </div>
+</form>
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

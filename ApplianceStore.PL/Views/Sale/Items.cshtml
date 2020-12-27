@@ -1,0 +1,56 @@
+﻿@model IEnumerable<SaleViewModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<table class="table_price">
+    <caption>Sale</caption>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Discount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Count)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Product.Title)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Date.ToShortDateString()
+            </td>
+            <td>
+                @item.Discount
+            </td>
+            <td>
+                @item.Count
+            </td>
+            <td>
+                @item.Product.Title
+            </td>
+            <td>
+                <form asp-controller="Sale" asp-route-id="@item.Id" asp-action="Delete" method="post">
+                    <button type="submit" class="table__button">
+                        Удалить
+                    </button>
+                </form>
+            </td>
+        </tr>
+    }
+</table>
+<a asp-action="Create">
+    <div class="add__button"></div>
+</a>
+
+@section Scripts {
+    <script src="~/js/Events.js"></script>
+}
